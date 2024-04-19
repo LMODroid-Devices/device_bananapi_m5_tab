@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_m5_tab.mk
+    $(LOCAL_DIR)/lmodroid_m5_tab.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_m5_tab-eng \
-    lineage_m5_tab-user \
-    lineage_m5_tab-userdebug
+    lmodroid_m5_tab-eng \
+    lmodroid_m5_tab-user \
+    lmodroid_m5_tab-userdebug
